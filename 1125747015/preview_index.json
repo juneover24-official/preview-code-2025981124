@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "1125747015",
-  "updated_at": "2026-09-21T23:50:56+00:00",
+  "updated_at": "2026-09-21T23:51:19+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -9,13 +9,6 @@
       "thumb": "饼饼の草莓盛宴闷闷.bdi_py_26_light_thumb.png",
       "full": "饼饼の草莓盛宴闷闷.bdi_py_26_light_thumb.png",
       "file_id": "1013e35f1479a8c61d15d2b185696ec1"
-    },
-    {
-      "name": "乐妍底包",
-      "file": "饼饼の厨房泡泡贴脆脆-无背景.bdi",
-      "thumb": "饼饼の厨房泡泡贴脆脆-无背景.bdi_py_26_light_thumb.png",
-      "full": "饼饼の厨房泡泡贴脆脆-无背景.bdi_py_26_light_thumb.png",
-      "file_id": "bec89b508f14d5abc08de9181e7dd49e"
     },
     {
       "name": "饼饼の厨房泡泡贴[脆脆]-灰底",
@@ -51,6 +44,13 @@
       "thumb": "饼饼の厨房泡泡贴闷闷-无背景.bdi_py_26_light_thumb.png",
       "full": "饼饼の厨房泡泡贴闷闷-无背景.bdi_py_26_light_thumb.png",
       "file_id": "cfbaf71957724c831da9e4bde101d3f1"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "饼饼の厨房泡泡贴脆脆-无背景.bdi",
+      "thumb": "饼饼の厨房泡泡贴脆脆-无背景.bdi_py_26_light_thumb.png",
+      "full": "饼饼の厨房泡泡贴脆脆-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "bec89b508f14d5abc08de9181e7dd49e"
     }
   ]
 }
