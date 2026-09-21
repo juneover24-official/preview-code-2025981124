@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "1125747015",
-  "updated_at": "2026-09-21T23:51:52+00:00",
+  "updated_at": "2026-09-21T23:52:06+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -33,13 +33,6 @@
     },
     {
       "name": "乐妍底包",
-      "file": "饼饼の厨房泡泡贴脆脆.bdi",
-      "thumb": "饼饼の厨房泡泡贴脆脆.bdi_py_26_light_thumb.png",
-      "full": "饼饼の厨房泡泡贴脆脆.bdi_py_26_light_thumb.png",
-      "file_id": "b4cbfc614f36d02e138b316943483b07"
-    },
-    {
-      "name": "乐妍底包",
       "file": "饼饼の厨房泡泡贴闷闷-无背景.bdi",
       "thumb": "饼饼の厨房泡泡贴闷闷-无背景.bdi_py_26_light_thumb.png",
       "full": "饼饼の厨房泡泡贴闷闷-无背景.bdi_py_26_light_thumb.png",
@@ -65,6 +58,13 @@
       "thumb": "饼饼の厨房泡泡贴闷闷灰底.bds_py_26_light_thumb.png",
       "full": "饼饼の厨房泡泡贴闷闷灰底.bds_py_26_light_thumb.png",
       "file_id": "977f9137b19c80bc54a50cd266732ba0"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "饼饼の厨房泡泡贴脆脆.bdi",
+      "thumb": "饼饼の厨房泡泡贴脆脆.bdi_py_26_light_thumb.png",
+      "full": "饼饼の厨房泡泡贴脆脆.bdi_py_26_light_thumb.png",
+      "file_id": "b4cbfc614f36d02e138b316943483b07"
     }
   ]
 }
