@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "1125747015",
-  "updated_at": "2026-09-21T23:50:12+00:00",
+  "updated_at": "2026-09-21T23:50:41+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -37,6 +37,13 @@
       "thumb": "饼饼の厨房泡泡贴脆脆.bds_py_26_light_thumb.png",
       "full": "饼饼の厨房泡泡贴脆脆.bds_py_26_light_thumb.png",
       "file_id": "9096d7abfc1f6dfe5aed49e8ea63f23c"
+    },
+    {
+      "name": "饼饼の厨房泡泡贴[闷闷]",
+      "file": "饼饼の厨房泡泡贴闷闷.bds",
+      "thumb": "饼饼の厨房泡泡贴闷闷.bds_py_26_light_thumb.png",
+      "full": "饼饼の厨房泡泡贴闷闷.bds_py_26_light_thumb.png",
+      "file_id": "24b5e05a051937cb374c0adf117baa64"
     }
   ]
 }
