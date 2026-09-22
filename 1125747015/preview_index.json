@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "1125747015",
-  "updated_at": "2026-09-22T00:38:28+00:00",
+  "updated_at": "2026-09-22T00:38:55+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -79,6 +79,13 @@
       "thumb": "饼饼の草莓盛宴闷闷-无背景.bdi_py_26_light_thumb.png",
       "full": "饼饼の草莓盛宴闷闷-无背景.bdi_py_26_light_thumb.png",
       "file_id": "dbc3cdf03d2c8db542ce8366154694ea"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "饼饼の草莓盛宴脆脆-无背景.bdi",
+      "thumb": "饼饼の草莓盛宴脆脆-无背景.bdi_py_26_light_thumb.png",
+      "full": "饼饼の草莓盛宴脆脆-无背景.bdi_py_26_light_thumb.png",
+      "file_id": "c1ebd4258823c8cf6cda7ebd286a344e"
     }
   ]
 }
