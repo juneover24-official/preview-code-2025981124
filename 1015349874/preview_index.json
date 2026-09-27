@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "1015349874",
-  "updated_at": "2026-09-27T10:55:45+00:00",
+  "updated_at": "2026-09-27T11:12:58+00:00",
   "skins": [
     {
       "name": "饼饼の喵的起司我了[脆脆]",
@@ -121,6 +121,13 @@
       "thumb": "饼饼の准备寿司吧混音-无背景.bdi_py_26_light_thumb.png",
       "full": "饼饼の准备寿司吧混音-无背景.bdi_py_26_light_thumb.png",
       "file_id": "76fd8df53fd4d1b8bb355cac4c67d45c"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "饼饼の准备寿司吧混音.bdi",
+      "thumb": "饼饼の准备寿司吧混音.bdi_py_26_light_thumb.png",
+      "full": "饼饼の准备寿司吧混音.bdi_py_26_light_thumb.png",
+      "file_id": "7be4b9964156b1c33332c3fcf6ce1b71"
     }
   ]
 }
