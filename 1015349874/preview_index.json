@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "1015349874",
-  "updated_at": "2026-09-27T10:55:18+00:00",
+  "updated_at": "2026-09-27T10:55:33+00:00",
   "skins": [
     {
       "name": "饼饼の喵的起司我了[脆脆]",
@@ -107,6 +107,13 @@
       "thumb": "饼饼の这里不许水饺脆脆.bds_py_26_light_thumb.png",
       "full": "饼饼の这里不许水饺脆脆.bds_py_26_light_thumb.png",
       "file_id": "9d5cb938ac1876f971d3071b1f7a7a3e"
+    },
+    {
+      "name": "饼饼の这里不许睡觉[闷闷]",
+      "file": "饼饼の这里不许水饺闷闷.bds",
+      "thumb": "饼饼の这里不许水饺闷闷.bds_py_26_light_thumb.png",
+      "full": "饼饼の这里不许水饺闷闷.bds_py_26_light_thumb.png",
+      "file_id": "f3d1be2dfcf6de9cc519cbc8470a74c0"
     }
   ]
 }
