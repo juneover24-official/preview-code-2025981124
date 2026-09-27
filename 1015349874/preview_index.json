@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "1015349874",
-  "updated_at": "2026-09-27T10:23:33+00:00",
+  "updated_at": "2026-09-27T10:24:02+00:00",
   "skins": [
     {
       "name": "饼饼の喵的起司我了[脆脆]",
@@ -79,6 +79,13 @@
       "thumb": "饼饼の这里不许水饺ios27闷闷.bdi_py_26_light_thumb.png",
       "full": "饼饼の这里不许水饺ios27闷闷.bdi_py_26_light_thumb.png",
       "file_id": "8ad65b1c8db6d4963a98654817d11e5f"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "饼饼の这里不许水饺ios26脆脆.bdi",
+      "thumb": "饼饼の这里不许水饺ios26脆脆.bdi_py_26_light_thumb.png",
+      "full": "饼饼の这里不许水饺ios26脆脆.bdi_py_26_light_thumb.png",
+      "file_id": "03dd7dec63161b2df7cce6975bd4281c"
     }
   ]
 }
