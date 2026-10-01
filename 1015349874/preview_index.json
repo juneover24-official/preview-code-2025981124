@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "1015349874",
-  "updated_at": "2026-10-01T13:07:27+00:00",
+  "updated_at": "2026-10-01T13:08:03+00:00",
   "skins": [
     {
       "name": "饼饼の喵的起司我了[脆脆]",
@@ -170,6 +170,13 @@
       "thumb": "饼饼の小不忍则卖大萌闷闷.bds_py_26_light_thumb.png",
       "full": "饼饼の小不忍则卖大萌闷闷.bds_py_26_light_thumb.png",
       "file_id": "a7fc1ecc4edea90d734788c713b83e05"
+    },
+    {
+      "name": "饼饼の小不忍则卖大萌[脆脆]",
+      "file": "饼饼の小不忍则卖大萌脆脆.bds",
+      "thumb": "饼饼の小不忍则卖大萌脆脆.bds_py_26_light_thumb.png",
+      "full": "饼饼の小不忍则卖大萌脆脆.bds_py_26_light_thumb.png",
+      "file_id": "9c45df888ab4e2588e6b5eca0663dc0e"
     }
   ]
 }
