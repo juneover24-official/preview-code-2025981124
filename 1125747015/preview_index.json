@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "1125747015",
-  "updated_at": "2026-10-06T05:09:23+00:00",
+  "updated_at": "2026-10-06T05:09:29+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -50,6 +50,12 @@
       "file": "饼饼の甜品泡泡贴闷闷灰底.bds",
       "thumb": "饼饼の甜品泡泡贴闷闷灰底.bds_py_26_light_thumb.png",
       "full": "饼饼の甜品泡泡贴闷闷灰底.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "饼饼の甜品泡泡贴[脆脆]-灰底",
+      "file": "饼饼の甜品泡泡贴脆脆灰底.bds",
+      "thumb": "饼饼の甜品泡泡贴脆脆灰底.bds_py_26_light_thumb.png",
+      "full": "饼饼の甜品泡泡贴脆脆灰底.bds_py_26_light_thumb.png"
     }
   ]
 }
