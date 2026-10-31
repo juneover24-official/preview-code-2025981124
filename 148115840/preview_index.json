@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "148115840",
-  "updated_at": "2026-10-31T07:57:19+00:00",
+  "updated_at": "2026-10-31T07:57:28+00:00",
   "skins": [
     {
       "name": "饼饼の小熊的调色盘[脆脆]",
@@ -9,6 +9,13 @@
       "thumb": "饼饼の小熊的调色盘脆脆.bds_py_26_light_thumb.png",
       "full": "饼饼の小熊的调色盘脆脆.bds_py_26_light_thumb.png",
       "file_id": "ba2b64dd750f685ba818c16e6158fdd6"
+    },
+    {
+      "name": "饼饼の小熊的调色盘[闷闷]",
+      "file": "饼饼の小熊的调色盘闷闷.bds",
+      "thumb": "饼饼の小熊的调色盘闷闷.bds_py_26_light_thumb.png",
+      "full": "饼饼の小熊的调色盘闷闷.bds_py_26_light_thumb.png",
+      "file_id": "733cd35995fe597e992adc5d4ae3bedf"
     }
   ]
 }
