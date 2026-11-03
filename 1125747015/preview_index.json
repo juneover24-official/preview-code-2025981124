@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "1125747015",
-  "updated_at": "2026-11-03T01:22:39+00:00",
+  "updated_at": "2026-11-03T01:22:44+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -143,18 +143,18 @@
       "file_id": "45a2c425562506cec44eb9da0a799be1"
     },
     {
-      "name": "乐妍底包",
-      "file": "饼饼の水果泡泡贴ios27闷闷.bdi",
-      "thumb": "饼饼の水果泡泡贴ios27闷闷.bdi_py_26_light_thumb.png",
-      "full": "饼饼の水果泡泡贴ios27闷闷.bdi_py_26_light_thumb.png",
-      "file_id": "98c3cd8e955dfac5283e2ff17cd28aec"
-    },
-    {
       "name": "饼饼の水果泡泡贴[脆脆]-灰底",
       "file": "饼饼の水果泡泡贴脆脆-灰底.bds",
       "thumb": "饼饼の水果泡泡贴脆脆-灰底.bds_py_26_light_thumb.png",
       "full": "饼饼の水果泡泡贴脆脆-灰底.bds_py_26_light_thumb.png",
       "file_id": "9d7d1affe4329d5d9de5ea7bd816e2ef"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "饼饼の水果泡泡贴ios27闷闷.bdi",
+      "thumb": "饼饼の水果泡泡贴ios27闷闷.bdi_py_26_light_thumb.png",
+      "full": "饼饼の水果泡泡贴ios27闷闷.bdi_py_26_light_thumb.png",
+      "file_id": "98c3cd8e955dfac5283e2ff17cd28aec"
     }
   ]
 }
