@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "148115840",
-  "updated_at": "2026-11-06T13:07:20+00:00",
+  "updated_at": "2026-11-06T13:07:43+00:00",
   "skins": [
     {
       "name": "饼饼の小熊的调色盘[脆脆]",
@@ -53,13 +53,6 @@
       "file_id": "a37f1992b2fba4cd96b156fd105ad35c"
     },
     {
-      "name": "饼饼の小猫爱吃布丁[闷闷]",
-      "file": "饼饼の小猫爱吃布丁ios27闷闷.bds",
-      "thumb": "饼饼の小猫爱吃布丁ios27闷闷.bds_py_26_light_thumb.png",
-      "full": "饼饼の小猫爱吃布丁ios27闷闷.bds_py_26_light_thumb.png",
-      "file_id": "7b9e6c5c9b87ec8b5233d476086e276c"
-    },
-    {
       "name": "饼饼の小猫爱吃布丁[混音]",
       "file": "饼饼の小猫爱吃布丁混音.bds",
       "thumb": "饼饼の小猫爱吃布丁混音.bds_py_26_light_thumb.png",
@@ -93,6 +86,13 @@
       "thumb": "饼饼の小猫爱吃布丁混音灰底.bds_py_26_light_thumb.png",
       "full": "饼饼の小猫爱吃布丁混音灰底.bds_py_26_light_thumb.png",
       "file_id": "67134f4deecc17f27379b14417387eb3"
+    },
+    {
+      "name": "饼饼の小猫爱吃布丁[闷闷]",
+      "file": "饼饼の小猫爱吃布丁ios27闷闷.bds",
+      "thumb": "饼饼の小猫爱吃布丁ios27闷闷.bds_py_26_light_thumb.png",
+      "full": "饼饼の小猫爱吃布丁ios27闷闷.bds_py_26_light_thumb.png",
+      "file_id": "7b9e6c5c9b87ec8b5233d476086e276c"
     }
   ]
 }
