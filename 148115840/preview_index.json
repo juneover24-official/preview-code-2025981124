@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "148115840",
-  "updated_at": "2026-11-06T12:55:52+00:00",
+  "updated_at": "2026-11-06T12:56:42+00:00",
   "skins": [
     {
       "name": "饼饼の小熊的调色盘[脆脆]",
@@ -72,6 +72,13 @@
       "thumb": "饼饼の小猫爱吃布丁混音.bds_py_26_light_thumb.png",
       "full": "饼饼の小猫爱吃布丁混音.bds_py_26_light_thumb.png",
       "file_id": "031b5cbcc685bd96f8483eb4dab1a491"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "饼饼の小猫爱吃布丁ios26混音.bdi",
+      "thumb": "饼饼の小猫爱吃布丁ios26混音.bdi_py_26_light_thumb.png",
+      "full": "饼饼の小猫爱吃布丁ios26混音.bdi_py_26_light_thumb.png",
+      "file_id": "86b060f5c1e71c2ecef533af3f046745"
     }
   ]
 }
