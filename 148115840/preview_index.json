@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "148115840",
-  "updated_at": "2026-11-13T10:18:41+00:00",
+  "updated_at": "2026-11-13T10:18:56+00:00",
   "skins": [
     {
       "name": "饼饼の小熊的调色盘[脆脆]",
@@ -109,13 +109,6 @@
       "file_id": "a42101851de0106cea32d3b5582cb3ef"
     },
     {
-      "name": "乐妍底包",
-      "file": "饼饼の幸福小实况ios27无框.bdi",
-      "thumb": "饼饼の幸福小实况ios27无框.bdi_py_26_light_thumb.png",
-      "full": "饼饼の幸福小实况ios27无框.bdi_py_26_light_thumb.png",
-      "file_id": "e0a264f4c5dc1c0699398a86644f2a0f"
-    },
-    {
       "name": "饼饼の幸福小实况[有框]",
       "file": "饼饼の幸福小实况有框.bds",
       "thumb": "饼饼の幸福小实况有框.bds_py_26_light_thumb.png",
@@ -135,6 +128,13 @@
       "thumb": "饼饼の幸福小实况ios26有框.bdi_py_26_light_thumb.png",
       "full": "饼饼の幸福小实况ios26有框.bdi_py_26_light_thumb.png",
       "file_id": "e4831d608a47b2cad66fdff01b15f8fe"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "饼饼の幸福小实况ios27无框.bdi",
+      "thumb": "饼饼の幸福小实况ios27无框.bdi_py_26_light_thumb.png",
+      "full": "饼饼の幸福小实况ios27无框.bdi_py_26_light_thumb.png",
+      "file_id": "e0a264f4c5dc1c0699398a86644f2a0f"
     }
   ]
 }
