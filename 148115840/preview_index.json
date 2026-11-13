@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "148115840",
-  "updated_at": "2026-11-13T10:20:28+00:00",
+  "updated_at": "2026-11-13T10:20:43+00:00",
   "skins": [
     {
       "name": "饼饼の小熊的调色盘[脆脆]",
@@ -142,6 +142,13 @@
       "thumb": "饼饼の幸福小实况ios26无框.bdi_py_26_light_thumb.png",
       "full": "饼饼の幸福小实况ios26无框.bdi_py_26_light_thumb.png",
       "file_id": "c3309d1c8b80c4b074591443af51c9f9"
+    },
+    {
+      "name": "饼饼の幸福小实况[有框]−灰底",
+      "file": "饼饼の幸福小实况有框灰底.bds",
+      "thumb": "饼饼の幸福小实况有框灰底.bds_py_26_light_thumb.png",
+      "full": "饼饼の幸福小实况有框灰底.bds_py_26_light_thumb.png",
+      "file_id": "2bcc1079a6dbd0510472be3b374154c6"
     }
   ]
 }
