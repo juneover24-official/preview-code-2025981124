@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "148115840",
-  "updated_at": "2026-11-19T11:58:48+00:00",
+  "updated_at": "2026-11-19T11:58:59+00:00",
   "skins": [
     {
       "name": "饼饼の小熊的调色盘[脆脆]",
@@ -159,13 +159,6 @@
     },
     {
       "name": "乐妍底包",
-      "file": "饼饼の游乐园ios27脆脆.bdi",
-      "thumb": "饼饼の游乐园ios27脆脆.bdi_py_26_light_thumb.png",
-      "full": "饼饼の游乐园ios27脆脆.bdi_py_26_light_thumb.png",
-      "file_id": "2dff92ec321de2ebb549ce0de0e799aa"
-    },
-    {
-      "name": "乐妍底包",
       "file": "饼饼の游乐园ios26闷闷.bdi",
       "thumb": "饼饼の游乐园ios26闷闷.bdi_py_26_light_thumb.png",
       "full": "饼饼の游乐园ios26闷闷.bdi_py_26_light_thumb.png",
@@ -198,6 +191,13 @@
       "thumb": "饼饼の游乐园脆脆灰底.bds_py_26_light_thumb.png",
       "full": "饼饼の游乐园脆脆灰底.bds_py_26_light_thumb.png",
       "file_id": "59641d2120935303f48ce65446ca07cb"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "饼饼の游乐园ios27脆脆.bdi",
+      "thumb": "饼饼の游乐园ios27脆脆.bdi_py_26_light_thumb.png",
+      "full": "饼饼の游乐园ios27脆脆.bdi_py_26_light_thumb.png",
+      "file_id": "2dff92ec321de2ebb549ce0de0e799aa"
     }
   ]
 }
