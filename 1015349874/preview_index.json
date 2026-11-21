@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "1015349874",
-  "updated_at": "2026-11-21T14:07:08+00:00",
+  "updated_at": "2026-11-21T14:21:09+00:00",
   "skins": [
     {
       "name": "饼饼の喵的起司我了[脆脆]",
@@ -198,6 +198,13 @@
       "thumb": "饼饼の喵的起司我了闷闷.bds_py_26_light_thumb.png",
       "full": "饼饼の喵的起司我了闷闷.bds_py_26_light_thumb.png",
       "file_id": "12944d8fcdcea2b5931f44bfc154942a"
+    },
+    {
+      "name": "饼饼の准备寿司吧[混音]",
+      "file": "饼饼の准备寿司吧混音.bds",
+      "thumb": "饼饼の准备寿司吧混音.bds_py_26_light_thumb.png",
+      "full": "饼饼の准备寿司吧混音.bds_py_26_light_thumb.png",
+      "file_id": "cb41686e9d45790c1e8ca91d539f14ea"
     }
   ]
 }
