@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "148115840",
-  "updated_at": "2026-11-23T10:20:45+00:00",
+  "updated_at": "2026-11-23T10:21:25+00:00",
   "skins": [
     {
       "name": "饼饼の小熊的调色盘[脆脆]",
@@ -247,6 +247,13 @@
       "thumb": "饼饼の面包哲学ios26闷闷.bdi_py_26_light_thumb.png",
       "full": "饼饼の面包哲学ios26闷闷.bdi_py_26_light_thumb.png",
       "file_id": "132e95dd167c43f193ceed5094881c31"
+    },
+    {
+      "name": "饼饼の面包哲学[闷闷]−灰底",
+      "file": "饼饼の面包哲学闷闷灰底.bds",
+      "thumb": "饼饼の面包哲学闷闷灰底.bds_py_26_light_thumb.png",
+      "full": "饼饼の面包哲学闷闷灰底.bds_py_26_light_thumb.png",
+      "file_id": "ed552fbc9e9b061631358fa64cb1bca8"
     }
   ]
 }
