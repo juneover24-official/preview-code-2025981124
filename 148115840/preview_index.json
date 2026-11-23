@@ -1,7 +1,7 @@
 {
   "qq_number": "2025981124",
   "group_number": "148115840",
-  "updated_at": "2026-11-23T10:19:58+00:00",
+  "updated_at": "2026-11-23T10:20:45+00:00",
   "skins": [
     {
       "name": "饼饼の小熊的调色盘[脆脆]",
@@ -240,6 +240,13 @@
       "thumb": "饼饼の面包哲学脆脆.bds_py_26_light_thumb.png",
       "full": "饼饼の面包哲学脆脆.bds_py_26_light_thumb.png",
       "file_id": "7406443bddc138f48062ef0154c85876"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "饼饼の面包哲学ios26闷闷.bdi",
+      "thumb": "饼饼の面包哲学ios26闷闷.bdi_py_26_light_thumb.png",
+      "full": "饼饼の面包哲学ios26闷闷.bdi_py_26_light_thumb.png",
+      "file_id": "132e95dd167c43f193ceed5094881c31"
     }
   ]
 }
